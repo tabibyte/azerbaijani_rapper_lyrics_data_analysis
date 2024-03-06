@@ -41,9 +41,9 @@ def process_folder(input_folder, output_folder, unique_tokens_folder):
                 file.write(' '.join(unique_tokens))
 
 # Define input and output folders
-input_folder = r'all_lyrics_data'
-output_folder = r'main_tokenized'
-unique_tokens_folder = r'main_tokenized_unique'
+input_folder = r'D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data'
+output_folder = r'D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data\new_folder'
+unique_tokens_folder = r'D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data\new_folder2'
 
 # Process the folder
 process_folder(input_folder, output_folder, unique_tokens_folder)

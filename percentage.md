@@ -1,0 +1,41 @@
+PERCENTAGE
+
+Percentage of tokens unique to Frhyme.txt: 32.14%
+Percentage of tokens unique to Xpert.txt: 31.27%
+Percentage of tokens unique to Okaber.txt: 30.60%
+Percentage of tokens unique to PayamTurk.txt: 30.31%
+Percentage of tokens unique to BadClause.txt: 30.28%
+Percentage of tokens unique to Puzzle.txt: 29.88%
+Percentage of tokens unique to qaraqan.txt: 28.13%
+Percentage of tokens unique to Promete.txt: 26.09%
+Percentage of tokens unique to OrkhanZeynalli.txt: 25.61%
+Percentage of tokens unique to Uran.txt: 25.58%
+Percentage of tokens unique to Dəyirman.txt: 25.16%
+Percentage of tokens unique to H.O.S.T.txt: 25.00%
+Percentage of tokens unique to YAP10.txt: 24.26%
+Percentage of tokens unique to Epi.txt: 23.96%
+Percentage of tokens unique to Neocortex.txt: 23.81%
+Percentage of tokens unique to Ziqzaq.txt: 23.65%
+Percentage of tokens unique to Tibu.txt: 23.54%
+Percentage of tokens unique to Dörd2Sıfır.txt: 23.17%
+Percentage of tokens unique to Paster.txt: 22.52%
+Percentage of tokens unique to A4.txt: 22.45%
+Percentage of tokens unique to Noton.txt: 22.43%
+Percentage of tokens unique to Alekpervi.txt: 22.12%
+Percentage of tokens unique to AnarNağılbaz.txt: 21.84%
+Percentage of tokens unique to Vvsvaupra.txt: 21.83%
+Percentage of tokens unique to RG.txt: 21.77%
+Percentage of tokens unique to Cəza22.txt: 21.55%
+Percentage of tokens unique to Aintnolie.txt: 21.32%
+Percentage of tokens unique to END.txt: 19.96%
+Percentage of tokens unique to Saybu Swag.txt: 19.72%
+Percentage of tokens unique to RIO.txt: 19.46%
+Percentage of tokens unique to 21Rave.txt: 18.74%
+Percentage of tokens unique to CHVRLIXxDeFakto.txt: 18.45%
+Percentage of tokens unique to Aslixan.txt: 18.35%
+Percentage of tokens unique to Rüzgar.txt: 18.34%
+Percentage of tokens unique to OGB.txt: 16.42%
+Percentage of tokens unique to ElşadXose.txt: 14.36%
+Percentage of tokens unique to Drek.txt: 14.33%
+Percentage of tokens unique to Jayko.txt: 14.08%
+Percentage of tokens unique to McBuS.txt: 13.09%
