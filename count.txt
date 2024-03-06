@@ -1,0 +1,41 @@
+COUNT
+
+BadClause.txt, Unique Token Count: 8284
+Puzzle.txt, Unique Token Count: 7145
+OrkhanZeynalli.txt, Unique Token Count: 7131
+Promete.txt, Unique Token Count: 6849
+Frhyme.txt, Unique Token Count: 6805
+qaraqan.txt, Unique Token Count: 6559
+H.O.S.T.txt, Unique Token Count: 6137
+Uran.txt, Unique Token Count: 5719
+Xpert.txt, Unique Token Count: 5404
+Okaber.txt, Unique Token Count: 5360
+Tibu.txt, Unique Token Count: 5047
+Paster.txt, Unique Token Count: 4662
+Epi.txt, Unique Token Count: 4070
+Dörd2Sıfır.txt, Unique Token Count: 3949
+PayamTurk.txt, Unique Token Count: 3893
+YAP10.txt, Unique Token Count: 3870
+Rüzgar.txt, Unique Token Count: 3545
+Noton.txt, Unique Token Count: 3486
+Dəyirman.txt, Unique Token Count: 2981
+Saybu Swag.txt, Unique Token Count: 2840
+RG.txt, Unique Token Count: 2798
+Neocortex.txt, Unique Token Count: 2684
+AnarNağılbaz.txt, Unique Token Count: 2624
+Aslixan.txt, Unique Token Count: 2561
+21Rave.txt, Unique Token Count: 2465
+RIO.txt, Unique Token Count: 2313
+CHVRLIXxDeFakto.txt, Unique Token Count: 2293
+Aintnolie.txt, Unique Token Count: 2153
+OGB.txt, Unique Token Count: 2010
+Vvsvaupra.txt, Unique Token Count: 1938
+McBuS.txt, Unique Token Count: 1863
+Ziqzaq.txt, Unique Token Count: 1679
+ElşadXose.txt, Unique Token Count: 1671
+END.txt, Unique Token Count: 1563
+Cəza22.txt, Unique Token Count: 1536
+Alekpervi.txt, Unique Token Count: 1451
+Jayko.txt, Unique Token Count: 1449
+A4.txt, Unique Token Count: 1439
+Drek.txt, Unique Token Count: 1172
