@@ -4,8 +4,8 @@ import lyricsgenius
 import json
 
 # lyricsgenius needs token from genius API(to use, get your token and write it below)
-
-genius = lyricsgenius.Genius("Your Token here",
+Your Token here = ""
+genius = lyricsgenius.Genius(Your Token here,
                              verbose=False,
                              skip_non_songs=False
                              )
@@ -29,22 +29,14 @@ artist.save_lyrics()
 
 with open(f"Lyrics_{artist_name}.json", "r") as read_file:  # if this code doesn't work, change it to created json file
     data = json.load(read_file)
-
-
-#%%
-
-# get the title and lyrics to a lyrics list
-
+  
 lyrics = ''
 titles = ''
 for songs in data['songs']:
     titles += '\n' + songs['full_title']  # you can delete it if you don't want to get lyrics
     lyrics += '\n' + songs['lyrics']
-
-#%%
-
-# creating a file for artist and dump the lyrics and titles (you can delete the titles part)
-
+  
+# creating a file for artist and dump the lyrics and titles (you can delete if you don't want it)
 # titles
 text_file = open(f'{artist_name}_titles.txt', "wt", encoding='utf-8')
 text_file.write(titles)
