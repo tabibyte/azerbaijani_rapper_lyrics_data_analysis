@@ -4,8 +4,6 @@ import re
 def process_text(text):
     # Remove non-alphanumeric characters and convert to lowercase
     processed_text = re.sub(r'[^a-zA-Z0-9\səğöüçşı]', ' ', text.lower())
-
-    # Tokenize the text manually
     tokens = re.split(r'\s+', processed_text)
 
     return tokens
@@ -40,10 +38,8 @@ def process_folder(input_folder, output_folder, unique_tokens_folder):
             with open(unique_tokens_output_path, 'w', encoding='utf-8') as file:
                 file.write(' '.join(unique_tokens))
 
-# Define input and output folders
-input_folder = r'D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data'
-output_folder = r'D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data\new_folder'
-unique_tokens_folder = r'D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data\new_folder2'
+input_folder = r'azerbaijani_rapper_lyrics_data_analysis\all_lyrics_data'
+output_folder = r'azerbaijani_rapper_lyrics_data_analysis\data\main_tokenized'
+unique_tokens_folder = r'azerbaijani_rapper_lyrics_data_analysis\data\main_tokenized_unique'
 
-# Process the folder
 process_folder(input_folder, output_folder, unique_tokens_folder)
