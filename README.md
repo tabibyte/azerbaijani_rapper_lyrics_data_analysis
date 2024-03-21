@@ -1,3 +1,5 @@
+## Azerbaijani Rapper Lyrics Data Analysis
+                        
                         _           _ _             _   _____                                  
      /\                | |         (_(_)           (_) |  __ \                                 
     /  \   _______ _ __| |__   __ _ _ _  __ _ _ __  _  | |__) |__ _ _ __  _ __   ___ _ __      
@@ -14,7 +16,6 @@
          __/ |                                                                  __/ |          
         |___/                                                                  |___/           
 
-## Azerbaijani Rapper Lyrics Data Analysis
 =======================
 
 Unique Word Analysis of Most Azerbaijani Rappers Inspired by [This Article](https://pudding.cool/projects/vocabulary/index.html) by Matt Daniels
