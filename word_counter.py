@@ -8,7 +8,7 @@ def read_files_and_join(folder_path):
     for filename in os.listdir(folder_path):
         if filename.endswith(".txt"):
             with open(os.path.join(folder_path, filename), 'r', encoding='utf-8') as file:
-                all_text += file.read() + " "  # Adding a space between the contents of each file
+                all_text += file.read() + " "
     return all_text
 
 
@@ -22,7 +22,7 @@ def top_100_words(text):
 
 
 # Main function
-folder_path = r"D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data\main_tokenized"  # Specify the path to your folder containing text files
+folder_path = r"azerbaijani_rapper_lyrics_data_analysis\data\main_tokenized"
 all_text = read_files_and_join(folder_path)
 top_100 = top_100_words(all_text)
 
