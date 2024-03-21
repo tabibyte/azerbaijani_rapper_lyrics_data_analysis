@@ -33,11 +33,10 @@ def main(directory):
     # Sort results by percentage
     results.sort(key=lambda x: x[1], reverse=True)
 
-    # Print sorted results
     for file_name, percentage_unique in results:
         print(f"Percentage of tokens unique to {file_name}: {percentage_unique:.2f}%")
 
 
 if __name__ == "__main__":
-    directory = r"D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data\main_tokenized_unique"
+    directory = r"azerbaijani_rapper_lyrics_data_analysis\data\main_tokenized_unique"
     main(directory)
