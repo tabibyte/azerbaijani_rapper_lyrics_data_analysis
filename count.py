@@ -33,7 +33,7 @@ def process_folder(input_folder):
     return unique_tokens_per_file
 
 # Define input folder
-input_folder = r'D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data\main_tokenized_unique'
+input_folder = r'azerbaijani_rapper_lyrics_data_analysis\data\main_tokenized_unique'
 
 # Get unique token count for each file
 unique_tokens_per_file = process_folder(input_folder)
