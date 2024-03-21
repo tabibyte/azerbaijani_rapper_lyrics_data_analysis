@@ -8,7 +8,7 @@ Unique Word Analysis of Most Azerbaijani Rappers Inspired by [This Article](http
 
 It wouldn't be possible without lyricsgenius module taht helped me a lot during this process
 
-My Medium Article: [Link](https://medium.com/@tabibyte/az%C9%99rbaycanl%C4%B1-rep-artistl%C9%99rin-l%C3%BC%C4%9F%C9%99t-analizi-3a2c1cc36537) **in Azerbaijani**
+My Medium Article: [Link](https://medium.com/@tabibyte/az%C9%99rbaycanl%C4%B1-rep-artistl%C9%99rin-l%C3%BC%C4%9F%C9%99t-analizi-3a2c1cc36537) *(in Azerbaijani)*
 
 Also, I added all the data to the repository, both raw and processed, in case anyone wanted to use it.
 
