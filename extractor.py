@@ -13,8 +13,10 @@ genius = lyricsgenius.Genius("Your Token here",
 #%%
 
 # type the artist name to get the lyrics
+# some artist have conflicted names links
+# For that you have to find other ways to get lyrics
 
-artist_name = "Okaber"
+artist_name = "Okaber" 
 artist = genius.search_artist(f"{artist_name}", sort="title")
 
 #%%

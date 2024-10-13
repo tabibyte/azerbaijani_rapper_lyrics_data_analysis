@@ -22,7 +22,7 @@ def top_100_words(text):
 
 
 # Main function
-folder_path = r"D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data\main_tokenized"  # Specify the path to your folder containing text files
+folder_path = r"data\main_tokenized"  # Specify the path to your folder containing text files
 all_text = read_files_and_join(folder_path)
 top_100 = top_100_words(all_text)
 

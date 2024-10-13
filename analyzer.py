@@ -39,5 +39,5 @@ def main(directory):
 
 
 if __name__ == "__main__":
-    directory = r"D:\repo\genius_lyrics_v2\azerbaijani_rapper_lyrics_data_analysis\data\main_tokenized_unique"
+    directory = r"\data\main_tokenized_unique"
     main(directory)
